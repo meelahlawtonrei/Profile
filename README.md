@@ -1,2 +1,2 @@
 # Profile
-This is my profile website created by Tu Toa
+This is my profile website created for my Digital Technology assessment at Tai Wananga Tu Toa
